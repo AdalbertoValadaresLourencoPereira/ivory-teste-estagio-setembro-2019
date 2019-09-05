@@ -1,0 +1,7 @@
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\obj\Debug\TesteIvory.csprojAssemblyReference.cache
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\obj\Debug\TesteIvory.csproj.CoreCompileInputs.cache
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\bin\Debug\TesteIvory.exe.config
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\bin\Debug\TesteIvory.exe
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\bin\Debug\TesteIvory.pdb
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\obj\Debug\TesteIvory.exe
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\TesteIvory\TesteIvory\obj\Debug\TesteIvory.pdb

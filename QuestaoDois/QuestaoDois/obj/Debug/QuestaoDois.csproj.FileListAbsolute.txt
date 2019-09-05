@@ -1,0 +1,7 @@
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.csprojAssemblyReference.cache
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.csproj.CoreCompileInputs.cache
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.exe.config
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.exe
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.pdb
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.exe
+C:\Users\Adalberto\Desktop\Programas Estudos\C#\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.pdb
